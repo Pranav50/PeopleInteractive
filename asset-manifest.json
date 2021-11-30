@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/PeopleInteractive/static/css/main.74eb728d.chunk.css",
-    "main.js": "/PeopleInteractive/static/js/main.d974ddb2.chunk.js",
-    "main.js.map": "/PeopleInteractive/static/js/main.d974ddb2.chunk.js.map",
+    "main.js": "/PeopleInteractive/static/js/main.c4e068e7.chunk.js",
+    "main.js.map": "/PeopleInteractive/static/js/main.c4e068e7.chunk.js.map",
     "runtime-main.js": "/PeopleInteractive/static/js/runtime-main.f757956f.js",
     "runtime-main.js.map": "/PeopleInteractive/static/js/runtime-main.f757956f.js.map",
-    "static/js/2.d9129eb1.chunk.js": "/PeopleInteractive/static/js/2.d9129eb1.chunk.js",
-    "static/js/2.d9129eb1.chunk.js.map": "/PeopleInteractive/static/js/2.d9129eb1.chunk.js.map",
+    "static/js/2.3c976e02.chunk.js": "/PeopleInteractive/static/js/2.3c976e02.chunk.js",
+    "static/js/2.3c976e02.chunk.js.map": "/PeopleInteractive/static/js/2.3c976e02.chunk.js.map",
     "index.html": "/PeopleInteractive/index.html",
     "static/css/main.74eb728d.chunk.css.map": "/PeopleInteractive/static/css/main.74eb728d.chunk.css.map",
-    "static/js/2.d9129eb1.chunk.js.LICENSE.txt": "/PeopleInteractive/static/js/2.d9129eb1.chunk.js.LICENSE.txt"
+    "static/js/2.3c976e02.chunk.js.LICENSE.txt": "/PeopleInteractive/static/js/2.3c976e02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f757956f.js",
-    "static/js/2.d9129eb1.chunk.js",
+    "static/js/2.3c976e02.chunk.js",
     "static/css/main.74eb728d.chunk.css",
-    "static/js/main.d974ddb2.chunk.js"
+    "static/js/main.c4e068e7.chunk.js"
   ]
 }
